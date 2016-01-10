@@ -27,6 +27,8 @@
     <ClCompile Include="..\sdlwindow.cpp" />
     <ClCompile Include="..\shader.cpp" />
     <ClCompile Include="..\tgaimage.cpp" />
+    <ClCompile Include="..\ThreadPool.cpp" />
+    <ClCompile Include="..\Worker.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\frametile.h" />
@@ -36,6 +38,8 @@
     <ClInclude Include="..\sdlwindow.h" />
     <ClInclude Include="..\shader.h" />
     <ClInclude Include="..\tgaimage.h" />
+    <ClInclude Include="..\ThreadPool.h" />
+    <ClInclude Include="..\Worker.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{D1E96421-BB81-4085-9BE6-AEF4C821D809}</ProjectGuid>
